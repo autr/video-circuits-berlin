@@ -1,7 +1,10 @@
 # Video Circuits Berlin
 
-Notes from VCB meetups:
+[![#001](2019-03-18/event.jpg)](2019-03-18.md)
 
-[2019-03-18 @ Lacuna Lab](2019-03-18.md)
+[![#002](2019-05-17/event.jpg)](2019-05-17.md)
 
-Join us at [Video Circuits Berlin](https://www.facebook.com/groups/2308645209458633/)
+### Facebook Group 
+
+- [Video Circuits Berlin](https://www.facebook.com/groups/video-circuits-berlin)
+- [Video Circuits](https://www.facebook.com/groups/VIDEOCIRCUITS/)
