@@ -1,10 +1,15 @@
 # Video Circuits Berlin
 
-[![#001](2019-03-18/event.jpg)](2019-03-18.md)
+VCB is a community meet-up for anyone interested or curious about video circuitry, synthesis, visual coding, DIY electronics and tools.
 
-[![#002](2019-05-17/event.jpg)](2019-05-17.md)
+### Event notes
 
-### Facebook Group 
+<a href="notes/VCB003_2019-12-05.md"><img src="images/VCB003_2019-12-05/event.jpg" width="660"></a>
+<a href="notes/VCB002_2019-05-17.md"><img src="images/VCB002_2019-05-17/event.jpg" width="660"></a>
+<a href="notes/VCB001_2019-03-18.md"><img src="images/VCB001_2019-03-18/event.jpg" width="660"></a>
 
-- [Video Circuits Berlin](https://www.facebook.com/groups/video-circuits-berlin)
-- [Video Circuits](https://www.facebook.com/groups/VIDEOCIRCUITS/)
+
+### Get Involved
+
+- [Video Circuits Berlin](https://www.facebook.com/groups/video-circuits-berlin) - meetup group
+- [Video Circuits](https://www.facebook.com/groups/VIDEOCIRCUITS/) - OG group
