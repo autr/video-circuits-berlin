@@ -2,7 +2,7 @@
 
 Setup instructions for prototype PiCapPro SD board by [D.Riches](https://github.com/danriches).
 
-![1](2019-05-17/1.jpg)
+![1](../images/VCB002_2019-05-17/1.jpg)
 
 Connecting the board
 --------------------
