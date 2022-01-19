@@ -23,4 +23,5 @@ VCB is a community meet-up for anyone interested or curious about video circuitr
 
 - [Video Circuits Berlin](https://www.facebook.com/groups/video-circuits-berlin)
 - [Video Circuits (OG Group)](https://www.facebook.com/groups/VIDEOCIRCUITS/)
+- [Scanlines](https://scanlines.xyz)
 - [Lacuna Lab](https://lacunalab.org)
